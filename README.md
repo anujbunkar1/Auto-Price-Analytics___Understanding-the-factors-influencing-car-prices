@@ -9,8 +9,8 @@ We found out that Engine horsepower, Year and Highway MPG are most related featu
 
 A few interesting facts and numbers from this analysis include:
 
--Cars with higher engine horsepower tend to have higher MSRPs
--Cars from certain manufacturers, such as Chevrolet and Volkswagen, tend to have higher MSRPs on average than cars from other manufacturers
+-Cars with higher engine horsepower tend to have higher MSRPs<br>
+-Cars from certain manufacturers, such as Chevrolet and Volkswagen, tend to have higher MSRPs on average than cars from other manufacturers<br>
 -Cars with certain fuel types, such as diesel and natural gas, tend to have higher MSRPs than cars with other fuel types
 -Cars with certain transmission types, such as automated manual and direct drive, tend to have higher MSRPs than cars with other transmission types
 -Cars with certain drive wheels, such as all wheel drive and four wheel drive, tend to have higher MSRPs than cars with other drive wheels
